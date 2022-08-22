@@ -1,0 +1,3 @@
+write a program on rlock in multithreading
+wap to create three functions and three threads
+for each functions and run those threads

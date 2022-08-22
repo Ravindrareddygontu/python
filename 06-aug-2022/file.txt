@@ -1,0 +1,1 @@
+{'USA': 'Washington D.C.', 'France': 'Paris', 'India': 'New Delhi'}

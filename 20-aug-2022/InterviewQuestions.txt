@@ -1,0 +1,247 @@
+1.what is python?
+2.what are the features of python?
+3.why python said to be an interpreted language?
+4. difference between interpreter and compiler?
+5. What type of applications are in python?
+6.what are the flavours of python?
+7.what is dynamically typed language in python?
+8.what are PEP8 standards in python?
+9. Difference between range and Xrange in python?
+10. How memory is managed in python?
+11.what are namespace in python?
+
+IDENTIFIERS::
+
+1.what are the identifiers in python and its uses?
+2.what are the valid and invalid identifiers?
+3. How do u identify of an indentifier?
+4.what is maximum length of an indentifier?
+5. What are nonrestrictive clauses in indentifier?
+
+LITERALS::
+
+1. What are literals in python?
+2.what types of literals in python?
+3. NONE is a literal or not?
+4. What are special literals in python?
+5. What are collection literals in python?
+
+KEYWORDS::
+
+1. What are the keywords in python and how Many keywords in python?
+2. What are the uses of keywords?
+3. Give 10 names of keywords?
+4. If we use keywords what type of an error we will get?
+5. What does assert will do?
+6. What does yield will do?
+
+
+OPERATORS:::
+
+1. What are the operators in python?
+2. What type of operators in python?
+3. What are membership operator in python?
+4. What are logical operators in python?
+5. What does the arithmetic operator will do?
+6. What are the bitwise operator in python?
+
+conditional statements::
+1) what is conditional statements ?
+2)what are conditional statements 
+3)what is nested conditionsl statements
+4)how many if statements can we write
+5))how many elif and else statements can we write
+6))how many conditional statements can we write
+
+loooping statements::
+1)what is loopping
+2)what are looping statements
+3)what is for loop
+4)what is difference b/w for and while loop
+5)what are nested loops
+
+control statements::
+1)what is control
+2)what are control statements
+3)what is break
+4)what is d/f b/w contiune and pass
+5)whwre we use the control statements
+
+Functions::
+1)what is function
+2)what arre types of functons
+3)what is user defined function
+4)what are types of user defind fuction
+5)what is no input output
+
+builtin::
+1)what is builtin fuctions
+2)what are builtin functions
+3)how many buitlin functions are there in python
+4)what does eval function do
+5)what is input fuction
+6)uses of builtin
+
+Lambda::
+1)what is Lambda function
+2)how we define a lambda funtion
+3) use of Lambda function
+4)where we use lambda mostly
+5)what are nested lambda
+
+Recursion::
+1)what is recursion
+2)limit of recursion
+3)use of recursion
+4)how we know the limit of recursion
+
+Comprehensions::
+1)what is Comprehensions
+2)what are types of Comprehensions
+3)d/f b/w list and dict Comprehensions
+4)how many conditions we can use in Comprehensions
+5) is it mandatory to use else for every if staement
+
+
+Array::
+1)what is an array
+2)how do we define an array
+3)methods of array
+4)df b/w  list and array
+5)which is faster list or array ?why?
+6)how do we define string data type in array
+
+OOPs::
+1)what is oops
+2)types of other programming 
+3)uses of oops
+4)what are the pillors of oops
+5)d/f b/w oops and functions
+
+Class::
+1)what is a class
+2)how do we define a class
+3)what is the constructor in class
+4)what is d/f b/w class metho and static method
+5)what is class attribute
+
+Object::
+1)what is a object
+2)what is a instance method
+3)how do we define a object
+4)how do we intilalize object attributes
+5)how do we acess the properties
+
+Inheritance::
+1)what is ainheritnace
+2)types of inheritance
+3)use of inheritance
+4)what is multi level inheritance
+5)d/f b/w multiple and hierarical inheritance
+6)what is MRO
+7)what is super method
+
+Polymorphism::
+1)what is polymorphism
+2)what we can achieve through polymorphism
+3)D/f B/w strong typing and Duck typing
+4)what is static polymorphism and Dnamic polymorphism
+5)D/f B/w method loading and Method over ridding
+6) uses of method over ridding
+
+Abstraction::
+1)what is Abstraction
+2)how do we achieve abstraction in python
+3)how Abstraction works in inheritance
+4)do we create object for an anbstrct class
+5)what is interface
+6) D/f B/w encapsulation and Abstraction'
+7)what is a condition that folllow in  inheriting abstraction class
+
+Encapsulation::
+1)what is encapsulation
+2)what are accsess modifiers'
+3)use of acess modifiers
+4)what are public private and protected modifiers
+5)what is setter and getter
+6) how do we get and set attributes out side of the class
+7)what is monkey patching
+8)is it possible to create private method inside a class
+
+MOdules and Packages::
+1)what is module and what is packages
+2)what is __init__ .py
+3)name 5 modules
+4)name methods of itertools modules
+5)name methods of collection module
+6)how do we create a module
+7)how to import modules
+
+Genrator::
+1)what is generator
+2)what is D/F B/w generator and a normal function
+3)difference between return yield return
+4)what is send method
+5)how do we iterator a generator function
+
+Decorator::
+1)what is Decorator
+2)use of decorators
+3)how do we define decorator
+4) do we pass argument in the decrator
+5)can we create a decor to a class
+
+Iterator::
+1)what is iterator
+2)can we create iterator of a class
+3)what is next() method
+4)what is iterator and iterable
+5)what error is occured when we call next after completing iterations
+6) what is itrerable objects
+
+
+Pickling and unPickling ::
+1)what is pickling
+2)what is unpickling
+3)what is the use of pickling and unpickling
+4)what are the methods used in pickling and unpicking
+5)what is highest protocol .
+
+
+File Handling ::
+1)what is file handling
+2)what is the context manager
+3)what is readline functon
+4)whats are the modes in file handling
+5)what is the methods we use to retrive the data in list
+
+multithreading::
+1)what is multithreading
+2)D/F B/w multithreading and multiprocessing
+3)how do we create a thread 
+4) what are methods and their functionality
+5)what are different types of thread states
+6)use of multi threading
+
+
+Exception Handling::
+1)what is an eexception Handling
+2)what are the clauses in Exception Handling
+3)name 5 error in exception
+4)when does else clause run
+5)who can we handle multiple exception
+
+
+Magic Methods::
+1)what is magic methods
+2)what is commanly used magic method
+3)name 5 magic methods
+4)d/f b/w str and repr magic methods
+5)what is operator overloaing
+
+Logging::
+What is Python Logging?
+How logging is used in Python?
+How do you create a logging level in Python?
+What is the importance of logging in Python?
+What are the Python logging best practices?
